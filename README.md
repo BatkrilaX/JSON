@@ -4,5 +4,5 @@
 Лабораторная работа №7  
 Вариант №11
 Нахождение информации о подписчиках на proffix4:  
-https://api.github.com/users/proffix4/followers
+https://api.github.com/users/proffix4/followers  
 ![1](интерфейс.png)
