@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FIS11_JSON</string>
+    <string name="textView">Информация о подписчиках на proffix4</string>
+    <string name="download">Загрузка данных</string>
+    <string name="find">Выбрать подписчика</string>
+    <string-array name="followingID">
+        <item>razetka</item>
+        <item>111nikklim111</item>
+        <item>kreisone</item>
+        <item>SKingTop</item>
+        <item>AdilAdilovich</item>
+        <item>Alzhanov2505</item>
+        <item>ZhanErke123</item>
+        <item>dev-gvs</item>
+        <item>SergeyMyssak</item>
+        <item>zhangzsz1989</item>
+        <item>MZhanerke</item>
+        <item>andreymyssak</item>
+        <item>bravesoftdz</item>
+        <item>akper</item>
+        <item>onlineasd2</item>
+        <item>panvlas</item>
+        <item>Mauletkhan</item>
+        <item>Turar1-2</item>
+        <item>Ivan03032000</item>
+        <item>Walid-Righi</item>
+        <item>Asmoda1</item>
+        <item>Meirbek-dev</item>
+    </string-array>
+</resources>
